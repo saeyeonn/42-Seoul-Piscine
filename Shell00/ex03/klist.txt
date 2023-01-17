@@ -1,0 +1,5 @@
+Credentials cache: API:4F2D5D09-C052-4BE2-9D94-B1F5DA4B9379
+        Principal: saelim@42SEOUL.KR
+
+  Issued                Expires               Principal
+Aug 22 17:20:37 2022  Aug 23 03:20:33 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
