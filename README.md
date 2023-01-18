@@ -1,2 +1,2 @@
 # 42_piscine
-42 Seoul La Piscine 8th
+코딩 아가의 42서울 라피신 8기 기록
